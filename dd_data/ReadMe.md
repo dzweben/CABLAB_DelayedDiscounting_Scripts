@@ -23,7 +23,7 @@ The task adjusts based on the participant’s previous choice, making the less p
 
 ### `/Data/Pre--FileSeperation`
 - Raw E-Prime output.
-- Organized by age cohort and participant.
+- Organized by age cohort and participant according to current CABLAB ONEDRIVe orginization. 
 - Contains `.txt` files directly from the task.
 
 ### `/Data/Post-FileSeperation`
@@ -42,6 +42,13 @@ Consolidates all `.txt` files into one flat folder (`Post-FileSeperation`) from 
 - Recursively walks through cohort/participant folders.
 - Moves all `.txt` files to a single directory for easier batch processing.
 - Skips duplicates.
+
+Post seperation files will have the following structure: 
+
+![poststruct](images/postseperation.png)
+
+
+
 
 ---
 
@@ -122,8 +129,4 @@ Calculates Delay Discounting metrics from cleaned `.csv` data.
    Run `indiff.avg_k_calculation.py` to generate full metrics and summary CSVs.
 
 ---
-
-## 💬 Notes
-
-- This pipeline supports future additions such as visualizations, QC metrics, or statistical analysis scripts.
-- Designed for flexibility across cohorts, participant waves, and future task variants.
+This can be run again on social or alone output!
