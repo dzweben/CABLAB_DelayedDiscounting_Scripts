@@ -62,7 +62,7 @@ The **social conformity variant** includes a controlled deception element: parti
    - Discount rate (`k`)
    - Log-transformed discounting (`ln_k`)
 
-# This can be run on both alone and social output. 
+**This can be run on both alone and social output.**
 
 5. **Social Conformity Task Execution**  
    From the desktop interface, launch `dd-desktop-setup/conformity_video_task.py` (or the included `.bat` shortcut).  
