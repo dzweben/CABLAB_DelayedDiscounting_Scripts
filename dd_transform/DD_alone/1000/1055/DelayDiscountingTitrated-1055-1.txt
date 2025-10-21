@@ -1,0 +1,1149 @@
+*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: DelayDiscountingTitrated
+SessionDate: 07-10-2024
+SessionTime: 14:04:17
+SessionStartDateTimeUtc: 7/10/2024 6:04:17 PM
+Subject: 1055
+Session: 1
+Age: 8
+DataFile.Basename: DelayDiscountingTitrated-1055-1
+RandomSeed: -1376026414
+Group: 1
+Display.RefreshRate: 59.951
+*** Header End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Init2
+			List10: 1
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 1
+			Slide2.RT: 18515
+			Slide2.RESP: 1
+			Slide4.RT: 0
+			Slide4.RESP: 
+			immed3: 100
+			respprev: 1
+			prevalue: 200
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 2
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 2
+			immed3: 50
+			respprev: 1
+			prevalue: 100
+			imstring: 100
+			Slide1.RT: 5290
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 50
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 3
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 3
+			immed3: 25
+			respprev: 1
+			prevalue: 50
+			imstring: 50
+			Slide1.RT: 4305
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 25
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 4
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 4
+			immed3: 13
+			respprev: 1
+			prevalue: 25
+			imstring: 25
+			Slide1.RT: 3618
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 12
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 5
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 5
+			immed3: 19
+			respprev: 3
+			prevalue: 13
+			imstring: 13
+			Slide1.RT: 6334
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 6
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 6
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 6
+			immed3: 16
+			respprev: 1
+			prevalue: 19
+			imstring: 19
+			Slide1.RT: 4025
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 3
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 7
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 7
+			immed3: 14
+			respprev: 1
+			prevalue: 16
+			imstring: 16
+			Slide1.RT: 674
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 2
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 8
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 8
+			immed3: 13
+			respprev: 1
+			prevalue: 14
+			imstring: 14
+			Slide1.RT: 580
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 1
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc2
+			List10: 9
+			ning: List10
+			List10.Cycle: 1
+			List10.Sample: 9
+			immed3: 13
+			respprev: 1
+			prevalue: 14
+			imstring: 13
+			Slide1.RT: 448
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: discount2
+		immed: 200
+		delaypd: 6 month
+		timedays: 180
+		List5: 1
+		ning: List5
+		List5.Cycle: 1
+		List5.Sample: 1
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 3
+	Procedure: sixmthproc
+	List1.Cycle: 1
+	List1.Sample: 1
+	ning: List1
+	roundnumber: 1
+	*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProcInit
+			List2: 1
+			ning: List2
+			Slide2.RT: 3103
+			Slide2.RESP: 1
+			Slide4.RT: 0
+			Slide4.RESP: 
+			immed3: 400
+			respprev: 1
+			prevalue: 800
+			List2.Cycle: 1
+			List2.Sample: 1
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 2
+			ning: List2
+			immed3: 200
+			respprev: 1
+			prevalue: 400
+			imstring: 400
+			Slide1.RT: 553
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 200
+			List2.Cycle: 1
+			List2.Sample: 2
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 3
+			ning: List2
+			immed3: 100
+			respprev: 1
+			prevalue: 200
+			imstring: 200
+			Slide1.RT: 6019
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 100
+			List2.Cycle: 1
+			List2.Sample: 3
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 4
+			ning: List2
+			immed3: 50
+			respprev: 1
+			prevalue: 100
+			imstring: 100
+			Slide1.RT: 1218
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 50
+			List2.Cycle: 1
+			List2.Sample: 4
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 5
+			ning: List2
+			immed3: 25
+			respprev: 1
+			prevalue: 50
+			imstring: 50
+			Slide1.RT: 574
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 25
+			List2.Cycle: 1
+			List2.Sample: 5
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 6
+			ning: List2
+			immed3: 13
+			respprev: 1
+			prevalue: 25
+			imstring: 25
+			Slide1.RT: 596
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 12
+			List2.Cycle: 1
+			List2.Sample: 6
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 7
+			ning: List2
+			immed3: 7
+			respprev: 1
+			prevalue: 13
+			imstring: 13
+			Slide1.RT: 356
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 6
+			List2.Cycle: 1
+			List2.Sample: 7
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 8
+			ning: List2
+			immed3: 10
+			respprev: 3
+			prevalue: 7
+			imstring: 7
+			Slide1.RT: 750
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 3
+			List2.Cycle: 1
+			List2.Sample: 8
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 9
+			ning: List2
+			immed3: 8
+			respprev: 1
+			prevalue: 10
+			imstring: 10
+			Slide1.RT: 731
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 2
+			List2.Cycle: 1
+			List2.Sample: 9
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 10
+			ning: List2
+			immed3: 9
+			respprev: 3
+			prevalue: 8
+			imstring: 8
+			Slide1.RT: 3027
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 1
+			List2.Cycle: 1
+			List2.Sample: 10
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: TrialProc
+			List2: 11
+			ning: List2
+			immed3: 9
+			respprev: 3
+			prevalue: 8
+			imstring: 9
+			Slide1.RT: 865
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			List2.Cycle: 1
+			List2.Sample: 11
+			*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: discount
+		immed: 800
+		delaypd: 1 week
+		List3: 3
+		timedays: 7
+		ning: List3
+		List3.Cycle: 1
+		List3.Sample: 1
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 1
+	Procedure: onewkproc
+	List1.Cycle: 1
+	List1.Sample: 2
+	ning: List1
+	roundnumber: 2
+	*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Init4
+			List12: 1
+			ning: List12
+			Slide2.RT: 1823
+			Slide2.RESP: 1
+			Slide4.RT: 0
+			Slide4.RESP: 
+			immed3: 400
+			respprev: 1
+			prevalue: 800
+			List12.Cycle: 1
+			List12.Sample: 1
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 2
+			ning: List12
+			immed3: 200
+			respprev: 1
+			prevalue: 400
+			imstring: 400
+			Slide1.RT: 914
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 200
+			List12.Cycle: 1
+			List12.Sample: 2
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 3
+			ning: List12
+			immed3: 300
+			respprev: 3
+			prevalue: 200
+			imstring: 200
+			Slide1.RT: 538
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 100
+			List12.Cycle: 1
+			List12.Sample: 3
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 4
+			ning: List12
+			immed3: 250
+			respprev: 1
+			prevalue: 300
+			imstring: 300
+			Slide1.RT: 984
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 50
+			List12.Cycle: 1
+			List12.Sample: 4
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 5
+			ning: List12
+			immed3: 225
+			respprev: 1
+			prevalue: 250
+			imstring: 250
+			Slide1.RT: 797
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 25
+			List12.Cycle: 1
+			List12.Sample: 5
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 6
+			ning: List12
+			immed3: 213
+			respprev: 1
+			prevalue: 225
+			imstring: 225
+			Slide1.RT: 657
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 12
+			List12.Cycle: 1
+			List12.Sample: 6
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 7
+			ning: List12
+			immed3: 207
+			respprev: 1
+			prevalue: 213
+			imstring: 213
+			Slide1.RT: 620
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 6
+			List12.Cycle: 1
+			List12.Sample: 7
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 8
+			ning: List12
+			immed3: 204
+			respprev: 1
+			prevalue: 207
+			imstring: 207
+			Slide1.RT: 1213
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 3
+			List12.Cycle: 1
+			List12.Sample: 8
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 9
+			ning: List12
+			immed3: 202
+			respprev: 1
+			prevalue: 204
+			imstring: 204
+			Slide1.RT: 875
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 2
+			List12.Cycle: 1
+			List12.Sample: 9
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 10
+			ning: List12
+			immed3: 201
+			respprev: 1
+			prevalue: 202
+			imstring: 202
+			Slide1.RT: 676
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 1
+			List12.Cycle: 1
+			List12.Sample: 10
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc4
+			List12: 11
+			ning: List12
+			immed3: 201
+			respprev: 1
+			prevalue: 202
+			imstring: 201
+			Slide1.RT: 366
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			List12.Cycle: 1
+			List12.Sample: 11
+			*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: discount4
+		immed: 800
+		delaypd: 5 years
+		timedays: 1825
+		List7: 3
+		ning: List7
+		List7.Cycle: 1
+		List7.Sample: 1
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 5
+	Procedure: fiveyearproc
+	List1.Cycle: 1
+	List1.Sample: 3
+	ning: List1
+	roundnumber: 3
+	*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Init1
+			List9: 1
+			ning: List9
+			Slide2.RT: 1205
+			Slide2.RESP: 1
+			Slide4.RT: 0
+			Slide4.RESP: 
+			immed3: 250
+			respprev: 1
+			prevalue: 500
+			List9.Cycle: 1
+			List9.Sample: 1
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 2
+			ning: List9
+			immed3: 125
+			respprev: 1
+			prevalue: 250
+			imstring: 250
+			Slide1.RT: 733
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 125
+			List9.Cycle: 1
+			List9.Sample: 2
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 3
+			ning: List9
+			immed3: 63
+			respprev: 1
+			prevalue: 125
+			imstring: 125
+			Slide1.RT: 87
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 62
+			List9.Cycle: 1
+			List9.Sample: 3
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 4
+			ning: List9
+			immed3: 31
+			respprev: 1
+			prevalue: 63
+			imstring: 63
+			Slide1.RT: 397
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 32
+			List9.Cycle: 1
+			List9.Sample: 4
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 5
+			ning: List9
+			immed3: 15
+			respprev: 1
+			prevalue: 31
+			imstring: 31
+			Slide1.RT: 425
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 16
+			List9.Cycle: 1
+			List9.Sample: 5
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 6
+			ning: List9
+			immed3: 23
+			respprev: 3
+			prevalue: 15
+			imstring: 15
+			Slide1.RT: 4573
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 8
+			List9.Cycle: 1
+			List9.Sample: 6
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 7
+			ning: List9
+			immed3: 19
+			respprev: 1
+			prevalue: 23
+			imstring: 23
+			Slide1.RT: 2121
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 4
+			List9.Cycle: 1
+			List9.Sample: 7
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 8
+			ning: List9
+			immed3: 17
+			respprev: 1
+			prevalue: 19
+			imstring: 19
+			Slide1.RT: 1982
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 2
+			List9.Cycle: 1
+			List9.Sample: 8
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 9
+			ning: List9
+			immed3: 18
+			respprev: 3
+			prevalue: 17
+			imstring: 17
+			Slide1.RT: 4058
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 1
+			List9.Cycle: 1
+			List9.Sample: 9
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc1
+			List9: 10
+			ning: List9
+			immed3: 18
+			respprev: 3
+			prevalue: 17
+			imstring: 18
+			Slide1.RT: 2785
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			List9.Cycle: 1
+			List9.Sample: 10
+			*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: discount1
+		immed: 500
+		delaypd: 1 month
+		timedays: 30
+		List4: 2
+		ning: List4
+		List4.Cycle: 1
+		List4.Sample: 1
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 2
+	Procedure: onemthproc
+	List1.Cycle: 1
+	List1.Sample: 4
+	ning: List1
+	roundnumber: 4
+	*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Init3
+			List11: 1
+			ning: List11
+			Slide2.RT: 8771
+			Slide2.RESP: 1
+			Slide4.RT: 0
+			Slide4.RESP: 
+			immed3: 100
+			respprev: 1
+			prevalue: 200
+			List11.Cycle: 1
+			List11.Sample: 1
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc3
+			List11: 2
+			ning: List11
+			immed3: 50
+			respprev: 1
+			prevalue: 100
+			imstring: 100
+			Slide1.RT: 1443
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 50
+			List11.Cycle: 1
+			List11.Sample: 2
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc3
+			List11: 3
+			ning: List11
+			immed3: 25
+			respprev: 1
+			prevalue: 50
+			imstring: 50
+			Slide1.RT: 1596
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 25
+			List11.Cycle: 1
+			List11.Sample: 3
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc3
+			List11: 4
+			ning: List11
+			immed3: 13
+			respprev: 1
+			prevalue: 25
+			imstring: 25
+			Slide1.RT: 1216
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 12
+			List11.Cycle: 1
+			List11.Sample: 4
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc3
+			List11: 5
+			ning: List11
+			immed3: 7
+			respprev: 1
+			prevalue: 13
+			imstring: 13
+			Slide1.RT: 2675
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 6
+			List11.Cycle: 1
+			List11.Sample: 5
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc3
+			List11: 6
+			ning: List11
+			immed3: 3
+			respprev: 1
+			prevalue: 7
+			imstring: 7
+			Slide1.RT: 355
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 4
+			List11.Cycle: 1
+			List11.Sample: 6
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc3
+			List11: 7
+			ning: List11
+			immed3: 1
+			respprev: 1
+			prevalue: 3
+			imstring: 3
+			Slide1.RT: 401
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 2
+			List11.Cycle: 1
+			List11.Sample: 7
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc3
+			List11: 8
+			ning: List11
+			immed3: 1
+			respprev: 1
+			imstring: 1
+			Slide1.RT: 494
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			List11.Cycle: 1
+			List11.Sample: 8
+			*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: discount3
+		immed: 200
+		delaypd: 1 year
+		timedays: 365
+		List6: 1
+		ning: List6
+		List6.Cycle: 1
+		List6.Sample: 1
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 4
+	Procedure: oneyearproc
+	List1.Cycle: 1
+	List1.Sample: 5
+	ning: List1
+	roundnumber: 5
+	*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Init5
+			List13: 1
+			ning: List13
+			Slide2.RT: 872
+			Slide2.RESP: 1
+			Slide4.RT: 0
+			Slide4.RESP: 
+			immed3: 250
+			respprev: 1
+			prevalue: 500
+			List13.Cycle: 1
+			List13.Sample: 1
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 2
+			ning: List13
+			immed3: 125
+			respprev: 1
+			prevalue: 250
+			imstring: 250
+			Slide1.RT: 1457
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 125
+			List13.Cycle: 1
+			List13.Sample: 2
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 3
+			ning: List13
+			immed3: 63
+			respprev: 1
+			prevalue: 125
+			imstring: 125
+			Slide1.RT: 782
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 62
+			List13.Cycle: 1
+			List13.Sample: 3
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 4
+			ning: List13
+			immed3: 31
+			respprev: 1
+			prevalue: 63
+			imstring: 63
+			Slide1.RT: 3711
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 32
+			List13.Cycle: 1
+			List13.Sample: 4
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 5
+			ning: List13
+			immed3: 15
+			respprev: 1
+			prevalue: 31
+			imstring: 31
+			Slide1.RT: 2285
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 16
+			List13.Cycle: 1
+			List13.Sample: 5
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 6
+			ning: List13
+			immed3: 7
+			respprev: 1
+			prevalue: 15
+			imstring: 15
+			Slide1.RT: 973
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 8
+			List13.Cycle: 1
+			List13.Sample: 6
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 7
+			ning: List13
+			immed3: 3
+			respprev: 1
+			prevalue: 7
+			imstring: 7
+			Slide1.RT: 1582
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 4
+			List13.Cycle: 1
+			List13.Sample: 7
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 8
+			ning: List13
+			immed3: 1
+			respprev: 1
+			prevalue: 3
+			imstring: 3
+			Slide1.RT: 15150
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 2
+			List13.Cycle: 1
+			List13.Sample: 8
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 9
+			ning: List13
+			immed3: 2
+			respprev: 3
+			prevalue: 1
+			imstring: 1
+			Slide1.RT: 8519
+			Slide1.RESP: 3
+			Slide5.RT: 0
+			Slide5.RESP: 
+			immed5: 1
+			List13.Cycle: 1
+			List13.Sample: 9
+			*** LogFrame End ***
+			Level: 4
+			*** LogFrame Start ***
+			Procedure: Proc5
+			List13: 10
+			ning: List13
+			immed3: 2
+			respprev: 1
+			prevalue: 1
+			imstring: 2
+			Slide1.RT: 1207
+			Slide1.RESP: 1
+			Slide5.RT: 0
+			Slide5.RESP: 
+			List13.Cycle: 1
+			List13.Sample: 10
+			*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		Procedure: discount5
+		immed: 500
+		delaypd: 15 years
+		timedays: 5475
+		List8: 2
+		ning: List8
+		List8.Cycle: 2
+		List8.Sample: 1
+		*** LogFrame End ***
+	Level: 2
+	*** LogFrame Start ***
+	List1: 6
+	Procedure: fifteenyearproc
+	List1.Cycle: 1
+	List1.Sample: 6
+	ning: List1
+	roundnumber: 6
+	*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: DelayDiscountingTitrated
+SessionDate: 07-10-2024
+SessionTime: 14:04:17
+SessionStartDateTimeUtc: 7/10/2024 6:04:17 PM
+Subject: 1055
+Session: 1
+Age: 8
+DataFile.Basename: DelayDiscountingTitrated-1055-1
+RandomSeed: -1376026414
+Group: 1
+Display.RefreshRate: 59.951
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2024-07-10T18:04:17Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">10000000</Frequency><Timestamp dt:dt="r8">183305596445</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2024-07-10T18:04:17Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+StudioVersion: 2.0.10.252
+timeVersion: 2.0.10.356
+timeVersionExpected: 2.0.10.356
+timeCapabilities: Professional
+ExperimentVersion: 1.0.0.8
+*** LogFrame End ***
+
