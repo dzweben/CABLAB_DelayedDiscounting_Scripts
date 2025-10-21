@@ -71,6 +71,8 @@ The **social conformity variant** includes a controlled deception element: parti
    - Computes `Indiff_Avg`.  
    - Automatically plays the appropriate peer-video in VLC.
 
+   (Neccesary videos are excluded from github repo due to size restrictions, but can be accessed (contact danny.zweben99@gmail.com))
+
 ---
 
 ## 💻 Requirements
